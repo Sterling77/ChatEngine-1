@@ -8,8 +8,9 @@
 <br><br>
     <a href="/jspTest">Go to Secure JSP</a>
     <br><br>
-    <a href="/rest/">Go to Secure REST</a>
-    <br><br>
-    <a href="/logout">SIGN OUT</a>
+<a href="/chat/createMessage">Go to REST Chat</a>    <br><br>
+    <a href="/logout">SIGN OUT</a> <br>
+
+<a href="/jspchat">create new chat </a>
 </body>
 </html>
