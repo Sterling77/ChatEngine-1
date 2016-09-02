@@ -6,6 +6,7 @@
 <body>
 <h1>INDEX JSP</h1>
 <br><br>
+
     <a href="/jspTest">Go to Secure JSP</a>
     <br><br>
 <a href="/chat/createMessage">Go to REST Chat</a>    <br><br>

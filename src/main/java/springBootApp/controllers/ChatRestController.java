@@ -30,7 +30,6 @@ public class ChatRestController {
                 "CHAT HELP: /chat/help";
     }
 
-
     @RequestMapping("createMessage")
     public String createMessage() {
         Chat chat = new Chat();
@@ -43,10 +42,7 @@ public class ChatRestController {
                 "<a href='/chat/send'> view all messages</a>"+
                  "</body>";
 
-
-
     }
-
 
     @RequestMapping("/")
     public Iterable<Chat> showChats() {
